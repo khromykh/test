@@ -1,1 +1,1 @@
-test record from new branch 1
+test record from new branch 1 2
